@@ -7,8 +7,23 @@
 
 /* Space out content a bit */
 body {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding-bottom: 70px;
+}
+
+.navbar-fixed-bottom {
+  position: fixed;
+  bottom: 0px;
+  z-index: 9;
+}
+
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.section {
+  text-align:center;
+  font-size: 3em;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
