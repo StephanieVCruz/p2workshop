@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css?family=Mr+Dafoe');
+
+
 .browserupgrade {
   margin: 0.2em 0;
   background: #ccc;
@@ -11,9 +15,16 @@ body {
 }
 
 #slide2 {
-  background-image: url(../images/oiran.svg);
+  background-image: url(../images/oiranhomepage_animated.svg);
   background-position: right;
   background-repeat: no-repeat;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 2em;
+}
+
+.description-box {
+
+  font-size: 14px;
 }
 
 .navbar-fixed-bottom {
