@@ -2,11 +2,10 @@
   "name": "project2",
   "private": true,
   "dependencies": {
-    "bootstrap": "~4.0.0-alpha.6",
     "modernizr": "~2.8.1",
-    "pixi.js": "^4.4.2",
     "fullpage.js": "^2.9.4",
-    "vivus": "^0.4.0"
+    "vivus": "^0.4.0",
+    "materialize": "^0.98.2"
   },
   "overrides": {
     "bootstrap": {
